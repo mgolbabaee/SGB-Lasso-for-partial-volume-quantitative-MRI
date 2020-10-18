@@ -4,3 +4,6 @@ If you find this toolbox useful for preparing your publication, we kindly reques
 
 M. Golbabaee and C. Poon, "An off-the-grid approach to multi-compartment magnetic resonance fingerprinting", 2020.
 
+Tested on MATLAB_R2019a
+(c) Mohammad Golbabaee
+
